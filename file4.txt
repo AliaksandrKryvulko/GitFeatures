@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Heare modification in branch master
+=======
+Heare we add some thing
+>>>>>>> add-feature2
